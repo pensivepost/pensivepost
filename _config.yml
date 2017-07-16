@@ -25,7 +25,7 @@ author: Dylan Slack
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://pensivepost.github.io'
+url: 'https://dslack-sf.github.io'
 baseurl: '/pensivepost'
 
 # This is for the editing function in _/includes/improve_content
