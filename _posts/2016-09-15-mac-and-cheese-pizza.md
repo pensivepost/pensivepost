@@ -15,14 +15,3 @@ Preheat the oven to 200′. Turn on your waffle iron to medium-high heat. As it 
 
 Grease your heated iron with butter or coconut oil. Pour a heaping cup of the batter and cook until golden and crispy on the outer edges. Transfer waffles to the oven to keep warm and repeat with remaining batter. To serve, smear with marscapone and top with a heap of gussied strawberries and a drizzle of honey.
 
-<ul>
-    <li>8 sheets toasted nori</li>
-    <li>1 peeled daikon radish</li>
-    <li>1 cucumber</li>
-    <li>1 cup sunflower sprouts</li>
-    <li>1 small mango</li>
-    <li>2 small avocados</li>
-    <li>24 sprigs mint</li>
-    <li>handful cilantro</li>
-    <li>(optional) 6 oz smoked wild salmon OR tofu</li>
-</ul>

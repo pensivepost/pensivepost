@@ -1,9 +1,9 @@
 # General Settings
-logo: /assets/svg/dummy-logo.svg
-name: Delicious
-description: The best food blog on the web.
-site_owner_name: John Doe
-email: ripsterbg@gmail.com
+logo: /assets/svg/book.png
+name: The Pensive Post
+description: Articles From Students At America's Top Universities
+site_owner_name: Dylan Slack
+email: dylan.slack@pensivepost.com
 favicon: /favicon.ico
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
@@ -50,8 +50,8 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
-baseurl: ""
+url: "http://dslack-sf.github.io/pensivepost"
+baseurl: "/pensivepost"
 
 # Includes
 include: ["_pages"]

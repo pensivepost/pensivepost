@@ -32,16 +32,7 @@ Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for
 
 > No more databases, comment moderation, or pesky updates to install—just your content.
 
-* 2 lbs strawberries, hulled and halved
-* 2 stalks rhubarb, sliced
-* 1/2 cup sugar
-* 3 cups flour (I used pastry)
-* 2 teaspoons baking powder
-* 1 teaspoon baking soda
-* 2 tablespoons sugar
-* 1/2 teaspoon salt
-* 8 tablespoons (1 stick) unsalted butter, cut into small pieces
-* 2 cups buttermilk
+
 
 #### Unordered List
 
