@@ -50,8 +50,8 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://dslack-sf.github.io"
-baseurl: "/pensivepost"
+url: ""
+baseurl: ""
 
 # Includes
 include: ["_pages"]
