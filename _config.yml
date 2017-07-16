@@ -51,7 +51,7 @@ defaults:
 
 # Serving
 url: ""
-baseurl: ""
+baseurl: "/pensivepost"
 
 # Includes
 include: ["_pages"]
